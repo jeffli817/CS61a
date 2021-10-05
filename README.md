@@ -15,7 +15,8 @@ Mastery of a particular programming language is a very useful side effect of CS 
 To refresh the fundamental knowledge after working as software engineer for serveral years 
 
 ## website:
-https://inst.eecs.berkeley.edu/~cs61a/sp20/
+https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
-2021/10/04 finish Lecture 1.1, 1.2, Lab 00, hw01
+2021/10/05 finish Lecture 3, Lecture 4, Textbook Ch1.1-1.5
+2021/10/04 finish Lecture 1, Lecture 2, Lab 00, hw01
