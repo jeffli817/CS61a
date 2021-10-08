@@ -1,5 +1,3 @@
-""" Homework 1: Control """
-
 from operator import add, sub
 
 def a_plus_abs_b(a, b):
@@ -12,14 +10,14 @@ def a_plus_abs_b(a, b):
     >>> # a check that you didn't change the return statement!
     >>> import inspect, re
     >>> re.findall(r'^\s*(return .*)', inspect.getsource(a_plus_abs_b), re.M)
-    ['return h(a, b)']
+    ['return f(a, b)']
     """
-    if b >= 0:
-        h = add
+    if b < 0:
+        f = lambda a,b : a + b*-1
     else:
-        b = b*-1
-        h = add
-    return h(a, b)
+        f = lambda a,b : a+ b
+    return f(a, b)
+
 
 def two_of_three(x, y, z):
     """Return a*a + b*b, where a and b are the two smallest members of the
@@ -39,10 +37,11 @@ def two_of_three(x, y, z):
     >>> [type(x).__name__ for x in ast.parse(inspect.getsource(two_of_three)).body[0].body]
     ['Expr', 'Return']
     """
-    return  min(x*x+y*y,x*x+y*y,x*x+z*z,y*y+z*z)
+    return x*x+y*y+z*z-max(x,y,z)*max(x,y,z)
 
-def largest_factor(x):
-    """Return the largest factor of x that is smaller than x.
+
+def largest_factor(n):
+    """Return the largest factor of n that is smaller than n.
 
     >>> largest_factor(15) # factors are 1, 3, 5
     5
@@ -52,9 +51,14 @@ def largest_factor(x):
     1
     """
     "*** YOUR CODE HERE ***"
-    for y in range(x-1,0,-1):
-     if (x % y ==0):
-        return y
+    x  =  n-1
+    while x > 0:
+        if n % x == 0:
+            return x
+        x= x -1
+    return 1
+
+
 
 def if_function(condition, true_result, false_result):
     """Return true_result if condition is a true value, and
@@ -78,37 +82,40 @@ def if_function(condition, true_result, false_result):
 def with_if_statement():
     """
     >>> result = with_if_statement()
-    6
+    47
     >>> print(result)
     None
     """
-    if c():
-        return t()
+    if cond():
+        return true_func()
     else:
-        return f()
+        return false_func()
 
 def with_if_function():
     """
     >>> result = with_if_function()
-    5
-    6
+    42
+    47
     >>> print(result)
     None
     """
-    return if_function(c(), t(), f())
+    return if_function(cond(), true_func(), false_func())
 
-def c():
+def cond():
+    "*** YOUR CODE HERE ***"
     return False
 
+def true_func():
+    "*** YOUR CODE HERE ***"
+    print("42")
 
-def t():
-    print ("5")
+def false_func():
+    "*** YOUR CODE HERE ***"
+    print("47")
 
-def f():
-    print ("6")
 
-def hailstone(x):
-    """Print the hailstone sequence starting at x and return its
+def hailstone(n):
+    """Print the hailstone sequence starting at n and return its
     length.
 
     >>> a = hailstone(10)
@@ -123,13 +130,13 @@ def hailstone(x):
     7
     """
     "*** YOUR CODE HERE ***"
-    a= 0
-    print (int(x))
-    while x != 1:
-        if x % 2 == 0:
-            x= x/2
+    i = 1
+    while n != 1 :
+        print(n)
+        if n % 2 == 0:
+            n = n//2
         else:
-            x=x*3 +1
-        a = a+1
-        print (int(x))
-    return a+1
+            n = n*3 +1
+        i=i+1
+    print(int(n))
+    return i
