@@ -18,6 +18,8 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/11/07 finished Project phrase2
+
 2021/11/05 finished Project phrase1, lecture 8
 
 2021/10/17 finished Discussion 02
