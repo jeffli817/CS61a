@@ -18,6 +18,8 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/11/16 finished Lecture (Data Abstraction & Trees)
+
 2021/11/15 finished midterm 1, lab04, hw02
 
 2021/11/14 finished lab03
