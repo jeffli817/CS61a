@@ -18,6 +18,8 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/11/21 finished Lecture(Mutable Values)
+
 2021/11/19 finished Lecture(Binary,Circuit)
 
 2021/11/18 finished textbook Ch.2.3
