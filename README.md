@@ -18,11 +18,11 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
-2021/11/23 finished Lecture(Iterators,Objects)
+2021/11/23 finished disc06, lab06
 
-2021/11/22 finished Lecture(Mutable Functions)
+2021/11/22 finished Lecture(Iterators,Objects)
 
-2021/11/21 finished Lecture(Mutable Values), Lab 05 (Except optional part), disc05
+2021/11/21 finished Lecture(Mutable Values,Mutable Functions), Lab 05 (Except optional part), disc05
 
 2021/11/19 finished Lecture(Binary,Circuit)
 
