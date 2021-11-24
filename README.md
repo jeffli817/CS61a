@@ -18,6 +18,8 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/11/24 finished hw03(except extra Qs)
+
 2021/11/23 finished disc06, lab06
 
 2021/11/22 finished Lecture(Iterators,Objects)
