@@ -18,7 +18,7 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
-2021/11/28 finished project cats
+2021/11/28 finished project cats, lecture(Inheritance)
 
 2021/11/26 finished hw04, project cats(problem 1-5)
 
