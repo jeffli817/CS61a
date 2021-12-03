@@ -18,6 +18,10 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/12/03 finished textbook Ch2.6
+
+2021/12/02 finished textbook Ch.2.5
+
 2021/12/01 finished lecture(Composition,Efficiency), textbook Ch.2.4
 
 2021/11/28 finished project cats, lecture(Inheritance, Representation)
