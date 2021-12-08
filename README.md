@@ -18,6 +18,8 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/12/08 finished lab09
+
 2021/12/07 finished hw05, lab08
 
 2021/12/06 finished Lecture(Decomposition, Data Example)
