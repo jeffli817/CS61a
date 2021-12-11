@@ -18,6 +18,12 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/12/11 finished lecture(Calculator), lab 10
+
+2021/12/10 finished lecture(Exceptions)
+
+2021/12/09 finished lecture(Scheme)
+
 2021/12/08 finished lab09, midterm2
 
 2021/12/07 finished hw05, lab08
