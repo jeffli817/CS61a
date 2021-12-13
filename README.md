@@ -18,7 +18,7 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
-2021/12/13 finished lecture(Declarative Programming,table,Aggregation, Databases )
+2021/12/13 finished lecture(Declarative Programming,table,Aggregation, Databases), Disc 11
 
 2021/12/12 finished disc10, hw06, hw07, lecture(Interpreters)
 
