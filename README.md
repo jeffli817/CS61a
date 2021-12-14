@@ -18,7 +18,7 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
-2021/12/14 finished lab11, hw 08, lecture(Tail Calls), textbook(Ch.2.9, 3.1-3.5)
+2021/12/14 finished lab11, hw 08, lecture(Tail Calls), textbook(Ch.2.9, 3.1-3.5), Disc 12
 
 2021/12/13 finished lecture(Declarative Programming,table,Aggregation, Databases), Disc 11
 
