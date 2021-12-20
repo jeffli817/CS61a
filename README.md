@@ -18,6 +18,8 @@ To refresh the fundamental knowledge after working as software engineer for serv
 https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
 ## Update
+2021/12/20 finished project scheme(python part)
+
 2021/12/18 finished project Ants
 
 2021/12/15 finished lecture (Macros (optional), Final Examples, Conclusion), Disc 14
